@@ -1,6 +1,6 @@
 import socket
 from _thread import *
-from moving_squares.player import Player
+from player import Player
 import pickle
 
 server = "192.168.8.116"
